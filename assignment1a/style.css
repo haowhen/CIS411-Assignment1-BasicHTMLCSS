@@ -1,0 +1,20 @@
+ body{
+     background-color:lightgrey;
+ }
+            
+p{
+    color:white;
+}
+
+h1{
+    font-weight: bold;
+}
+            
+h2{
+    font-size: 1.3em; 
+    font-style: italic;
+}
+            
+pre{
+    background-color: yellow;
+}

@@ -1,0 +1,36 @@
+body{
+    margin : 0px;
+}
+
+.main{
+    width: auto;
+}
+.main .img1{
+    padding-right: 0;
+	float: left;
+}
+.main .img2{
+    float: left;
+}
+
+.content{
+    position:absolute;
+    margin-left: 135px;
+    width: 430px;
+}
+
+.content .contentLogo{
+    margin-left: 150px;
+}
+
+.mainContent img{
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
+.mainContent p{
+    text-indent: 45px;
+    font-size: 15px;
+    padding: 5px;
+    padding-top: 0px;
+}
